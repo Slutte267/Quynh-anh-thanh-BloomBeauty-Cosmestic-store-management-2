@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # Quynh-anh-thanh-BloomBeauty-Cosmetic-store-management
 # Quynh-anh-thanh-BloomBeauty-Cosmetic-store-management-1
+# Quynh-anh-thanh-BloomBeauty-Cosmetic-store-management
